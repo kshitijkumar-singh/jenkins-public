@@ -1,4 +1,4 @@
-<h1> Welcome to Thapar Institute of Engineering & Technology!!! </h1>
-<h2> New_Jenkins Project <h2>
-<h3> Hello, shashi this side <h3>
-<h4>ff><h4>
+<h1> Welcome to New Project</h1>
+<h2> New Jenkins Project <h2>
+<h3> CI/CD  <h3>
+<h4> <h4>
